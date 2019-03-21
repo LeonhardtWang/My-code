@@ -172,7 +172,7 @@ def find(condition):
         pri_beauty(list(row), 30, str_width)
 
 if __name__ == "__main__":
-    craw_byte_apply_info()
+    #craw_byte_apply_info()
     key_find = ['岗位', '职位类型', '工作地点', '发布日期']
     while True:
         cmd = input("\n请输入命令：\n可用命令：f-查询, e-结束\n")
